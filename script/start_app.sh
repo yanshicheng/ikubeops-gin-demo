@@ -10,9 +10,9 @@ NewRegistryUrl="harbor.ikubeops.local/public"
 # shellcheck disable=SC2034
 OldRegistryUrl="harbor.ikubeops.local/public"
 # 完整的项目名字
-oldProjectFullNmae="github.com/ikubeops-template/gin-web"
-oldProjectName="gin-web"
-oldProjectShortName="github.com/ikubeops-template"
+oldProjectFullNmae="github.com/yanshicheng/ikubeops-gin-demo"
+oldProjectName="ikubeops-gin-demo"
+oldProjectShortName="github.com/yanshicheng"
 
 # 获取脚本的绝对路径
 scriptDir=$(cd "$(dirname "$0")"; pwd)
